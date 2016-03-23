@@ -15,7 +15,6 @@
     "paper-icon-item.html",
     "paper-item-body.html"
   ],
-  "private": true,
   "repository": {
     "type": "git",
     "url": "git://github.com/PolymerElements/paper-item"
